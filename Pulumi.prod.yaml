@@ -1,0 +1,3 @@
+config:
+  confoovars:rgName: prod-confoo-rg
+  confoovars:webappName: webappconfooprod  

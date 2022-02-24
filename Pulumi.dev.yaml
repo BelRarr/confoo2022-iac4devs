@@ -1,0 +1,4 @@
+config:
+  azure-native:location: WestUS
+  confoovars:rgName: confoo-rg
+  confoovars:webappName: webappconfoo
