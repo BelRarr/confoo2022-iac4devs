@@ -1,0 +1,3 @@
+name: confoo2022-iac4devs
+runtime: dotnet
+description: Mon premier projet Pulumi pour Azure
